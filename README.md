@@ -7,6 +7,8 @@ Spectral amplitude modulation (SAM) method, as an automated and empirical nonlin
 
 The original Spectral amplitude modulation (SAM) method can be acquired from: www.mathworks.com/matlabcentral/fileexchange/71932-spectral-amplitude-modulation
 
+If you have any questions, please don't hesitate to contact wmying033@126.com 
+
 Thank you for your attention and support to our work. 
 
 
